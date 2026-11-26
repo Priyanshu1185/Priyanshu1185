@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile!
 
-I'm a first-year Computer Science and Engineering student at ** K.R. Mangalam University**. I'm learning programming and building projects to improve my technical skills.
+I'm a first-year Computer Science and Engineering student at  K.R. Mangalam University. I'm learning programming and building projects to improve my technical skills.
 
 ## 🚀 About Me
 
