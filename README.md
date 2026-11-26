@@ -25,11 +25,15 @@ I'm a first-year Computer Science and Engineering student at ** K.R. Mangalam Un
 
 ## 📂 My Projects
 
-### Beginner Developer Ecosystem Portfolio
-
+### 1. Beginner Developer Ecosystem Portfolio
 A collection of my beginner developer projects, shell scripts, API experiments and learning documentation.
 
 🔗 [View DeveloperPortfolio](https://github.com/Priy​​anshu1185/DeveloperPortfolio)
+
+### 2. CSE103 Lab
+My college lab work, including Git, GitHub, programming practice and documentation.
+
+🔗 [View CSE103 Lab](https://github.com/Priy​​anshu1185/cse103-lab-LAB3)
 
 ## 🔗 Connect With Me
 
